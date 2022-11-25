@@ -1,0 +1,22 @@
+@import url("./Assets/styles/header.css"); 
+@import url("./Assets/styles/footer.css"); 
+@import url("./Assets/styles/user.css");
+
+@import url("./Assets/styles/modais/ModalLogin.css"); 
+@import url("./Assets/styles/modais/modalEditItem.css");
+@import url("./Assets/styles/modais/modalDeleteItems.css");
+@import url("./Assets/styles/modais/defaultProperties.css"); 
+@import url("./Assets/styles/items.css");
+
+@import url("./Assets/styles/index.css"); 
+
+
+
+
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+

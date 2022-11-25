@@ -1,0 +1,10 @@
+.flex-footer{
+  display: flex;
+  height: 100px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.cop{
+  color: #898989;
+}
